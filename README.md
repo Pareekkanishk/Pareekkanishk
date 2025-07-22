@@ -8,7 +8,7 @@
 - ⚡ *Fun fact:* Technology and I—we evolve together
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-pareek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/kanishk-pareek-0b6441280)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikanishkpareek20@gmail.com)
 
 # 💻 Tech Stack:
